@@ -1,0 +1,53 @@
+#menu {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-categorie {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 16px;
+}
+
+.menu-categorie:nth-child(odd) {
+    background-color: lightgray;
+}
+
+.menu-categorie h3 {
+    width: 100%;
+    justify-self: center;
+}
+
+.menu-item {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: left;
+    margin: 5px;
+}
+
+.menu-nummer {
+    width: 30px
+}
+
+.menu-gerecht {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 16px
+}
+
+.menu-prijs {
+    width: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
