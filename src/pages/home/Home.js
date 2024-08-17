@@ -1,6 +1,7 @@
 import React from 'react';
 import hero from '../../assets/restaurant_kampo_rijksweg.png';
 import "./Home.css";
+import { NavLink } from 'react-router-dom';
 
 
 function Home() {
@@ -14,7 +15,7 @@ function Home() {
                 toen wij tijdens de lock down de deuren hebben moeten sluiten van het restaurant hebben wij besloten om voortaan enkel nog te fungeren als afhaalpunt.
             </p>
 
-            <button>afhaal menu bekijken</button>
+            <NavLink to={"/menu"}>afhaal menu bekijken</NavLink>
         </div>
     );
 }

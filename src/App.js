@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Home from './pages/home/Home';
 import Menu from './pages/menu/Menu';
+import { Route, Routes } from 'react-router-dom';
 
 
 function App() {
@@ -9,8 +10,11 @@ function App() {
 
   return (
     <div className="App">
-      <Home />
-      <Menu data={data} />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/menu" element={<Menu data={data} />} />
+        <Route path="/contact" element={{}} />
+      </Routes>
     </div>
   );
 }

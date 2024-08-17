@@ -3,7 +3,11 @@ import "./Menu.css";
 
 function Menu({data}) {
 
-    var menuCatArr = new Array();
+    let menuCatArr = new Array();
+    let euCurrency = new Intl.NumberFormat('en-NL', {
+        style: 'currency',
+        currency: 'EUR'
+    })
     
     Object.keys(data.menu).forEach(key => {
         menuCatArr.push(data.menu[key])
@@ -32,7 +36,7 @@ function Menu({data}) {
                                         <div className="menu-item">
                                             <div className="menu-nummer">{item.menuNummer}</div>
                                             <div className="menu-gerecht">{item.gerechtNaam}</div>
-                                            <div className="menu-prijs">{item.prijs}</div>
+                                            <div className="menu-prijs">{euCurrency.format(item.prijs)}</div>
                                         </div>
                                     )
                                 })
