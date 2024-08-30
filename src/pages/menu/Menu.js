@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import "./Menu.css";
+import { Link } from 'react-router-dom';
 
 function Menu({data}) {
 
@@ -15,7 +16,6 @@ function Menu({data}) {
     
     return ( 
         <div id="menu">
-            <h1>{data.restaurant}</h1>
             <h2>Afhaal menu</h2>
             {   
                 menuCatArr.map((cat) => {                    

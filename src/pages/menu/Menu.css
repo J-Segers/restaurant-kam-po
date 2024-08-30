@@ -6,16 +6,25 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    margin-top: 125px;
 }
 
 .menu-categorie {
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-wrap: wrap;
-    margin: none;
+    margin: 16px;
 }
 
-.menu-categorie:nth-child(odd) {
+.menu-categorie:first-of-type {
+    border-top: 1px solid black;
+}
+
+.menu-categorie:last-of-type {
+    margin-bottom: 50px;
+}
+
+.menu-categorie:nth-child(even) {
     background-color: lightgray;
 }
 
@@ -53,6 +62,10 @@
 }
 
 @media screen and (min-width: 768px) {
+    #menu {
+        margin-top: 175px;
+    }
+
     .menu-item {
         width: 800px;
         margin: 5px 16px;
