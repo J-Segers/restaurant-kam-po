@@ -1,0 +1,23 @@
+#week-menu {
+    width: 80%;
+    height: auto;
+    margin-bottom: 50px;
+    border: 1px solid rgba(200, 200, 200, 0.5);
+    box-shadow: 5px 5px 10px;
+}
+
+#week-menu h2 {
+    margin-top: 50px;
+    text-decoration: underline;
+
+}
+
+#week-menu h3:last-child {
+    margin-bottom: 50px;
+}
+
+@media screen and (min-width: 768px) {
+    #week-menu {
+        width: 400px;
+    }
+}

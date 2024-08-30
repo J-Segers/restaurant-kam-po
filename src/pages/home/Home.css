@@ -1,5 +1,19 @@
+#home {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 #hero-img {
     width: 100%;
     height: auto;
     overflow: hidden;
-  }
+}
+
+#info {
+  width: 80%;
+  margin-bottom: 50px;
+}

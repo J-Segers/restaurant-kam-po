@@ -2,6 +2,7 @@ import React from 'react';
 import hero from '../../assets/restaurant_kampo_rijksweg.png';
 import "./Home.css";
 import { NavLink } from 'react-router-dom';
+import WeekMenu from '../../componenten/weekMenu/WeekMenu';
 
 
 function Home() {
@@ -11,11 +12,16 @@ function Home() {
             <h1>Kam Po</h1>
             <h3>Chinees - Indisch Restaurant</h3>
 
-            <p>
-                toen wij tijdens de lock down de deuren hebben moeten sluiten van het restaurant hebben wij besloten om voortaan enkel nog te fungeren als afhaalpunt.
+            <p id='info'>
+                Toen wij tijdens de lock down de deuren hebben moeten sluiten van het restaurant hebben wij besloten om voortaan enkel nog te fungeren als afhaalpunt.
             </p>
 
-            <NavLink to={"/menu"}>afhaal menu bekijken</NavLink>
+            <WeekMenu />
+            <p>
+                liever trek in iets anders?<br />
+                bekijk hier ons volledige menu.
+            </p>
+            <NavLink className="menu-btn" to={"/menu"}>menu</NavLink>
         </div>
     );
 }
