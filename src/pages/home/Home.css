@@ -17,3 +17,29 @@
   width: 80%;
   margin-bottom: 50px;
 }
+
+.menu-btn {
+  width: 200px;
+  height: 75px;
+  background-color: darkred;
+  color: cornsilk;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  border: 5px solid darkred;
+}
+
+.menu-btn:hover {
+  background-color: cornsilk;
+  color: darkred;
+}
+
+.menu-btn p {
+  font-size: xx-large;
+  margin-bottom: 40px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: center;
+}

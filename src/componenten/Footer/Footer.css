@@ -1,7 +1,8 @@
 footer {
     width: 100%;
-    height: 200px;
+    min-height: 200px;
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     background-color:darkred;
@@ -9,6 +10,20 @@ footer {
     margin-top: 50px;
 }
 
+#adres, #contact {
+    margin-top: 50px;
+}
+
 footer h3, footer h4 {
-    margin: 0
+    margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+    footer {
+        flex-direction: row;
+    }
+
+    #adres, #contact {
+        margin-top: 0;
+    }
 }

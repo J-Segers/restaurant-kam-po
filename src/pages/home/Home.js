@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import hero from '../../assets/restaurant_kampo_rijksweg.png';
 import "./Home.css";
 import { NavLink } from 'react-router-dom';
@@ -6,6 +6,11 @@ import WeekMenu from '../../componenten/weekMenu/WeekMenu';
 
 
 function Home() {
+
+    useEffect(() => {
+        window.scrollTo(0,0);
+    }, [])
+
     return ( 
         <div id="home">
             <img id={"hero-img"} src={hero} alt="" />
@@ -21,7 +26,7 @@ function Home() {
                 liever trek in iets anders?<br />
                 bekijk hier ons volledige menu.
             </p>
-            <NavLink className="menu-btn" to={"/menu"}>menu</NavLink>
+            <NavLink className="menu-btn" to={"/menu"}><p>menu</p></NavLink>
         </div>
     );
 }

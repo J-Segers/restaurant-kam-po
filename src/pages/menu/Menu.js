@@ -4,6 +4,10 @@ import { Link } from 'react-router-dom';
 
 function Menu({data}) {
 
+    useEffect(() => {
+        window.scrollTo(0,0);
+    }, [])
+
     let menuCatArr = new Array();
     let euCurrency = new Intl.NumberFormat('en-NL', {
         style: 'currency',
