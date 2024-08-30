@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/J-Segers/restaurant-kam-po/static/css/main.0975d357.css",
+    "main.js": "/J-Segers/restaurant-kam-po/static/js/main.c2aee5c8.js",
+    "static/js/453.03df4a30.chunk.js": "/J-Segers/restaurant-kam-po/static/js/453.03df4a30.chunk.js",
+    "static/media/restaurant_kampo_rijksweg.png": "/J-Segers/restaurant-kam-po/static/media/restaurant_kampo_rijksweg.400e303291fa75d43c23.png",
+    "static/media/LogoImg.png": "/J-Segers/restaurant-kam-po/static/media/LogoImg.b6469061d0449b5dcd02.png",
+    "index.html": "/J-Segers/restaurant-kam-po/index.html",
+    "main.0975d357.css.map": "/J-Segers/restaurant-kam-po/static/css/main.0975d357.css.map",
+    "main.c2aee5c8.js.map": "/J-Segers/restaurant-kam-po/static/js/main.c2aee5c8.js.map",
+    "453.03df4a30.chunk.js.map": "/J-Segers/restaurant-kam-po/static/js/453.03df4a30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0975d357.css",
+    "static/js/main.c2aee5c8.js"
+  ]
+}
