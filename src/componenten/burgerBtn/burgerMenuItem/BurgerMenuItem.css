@@ -1,0 +1,9 @@
+.link-container {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 5px .25px;
+    filter: grayscale(100%);
+}
