@@ -21,6 +21,7 @@ function Menu({data}) {
     return ( 
         <div id="menu">
             <h2>Afhaal menu</h2>
+            <hr />
             {   
                 menuCatArr.map((cat) => {                    
                     var menuItems = new Array();

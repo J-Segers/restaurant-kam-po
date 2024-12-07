@@ -17,7 +17,7 @@
                 },
                 "2": {
                     "menuNummer": 3,
-                    "gerechtNaam": "HaaievInnensoep",
+                    "gerechtNaam": "Haaievinnensoep",
                     "prijs": 3.7
                 },
                 "3": {
@@ -32,12 +32,12 @@
                 },
                 "5": {
                     "menuNummer": 6,
-                    "gerechtNaam": "Soep 'Kam Po",
+                    "gerechtNaam": "Soep \"Kam Po\"",
                     "prijs": 4.7
                 },
                 "6": {
                     "menuNummer": 7,
-                    "gerechtNaam": "Wan Tan Soep",
+                    "gerechtNaam": "Wan Tan soep",
                     "prijs": 4.7
                 }
             }
@@ -51,22 +51,22 @@
                 },
                 "1": {
                     "menuNummer": "8b",
-                    "gerechtNaam": "Minl LoemplaS (8st.)",
+                    "gerechtNaam": "Mini Loempia's (8st.)",
                     "prijs": 3.8
                 },
                 "2": {
                     "menuNummer": 9,
-                    "gerechtNaam": "Chinese loempia (2st.)",
+                    "gerechtNaam": "Chinese loempia's (2st.)",
                     "prijs": 3.5
                 },
                 "3": {
                     "menuNummer": 10,
-                    "gerechtNaam": "Saté Ajam kippenvlees, 4 stokjes",
+                    "gerechtNaam": "Saté Ajam (kippenvlees, 4 stokjes)",
                     "prijs": 5.5
                 },
                 "4": {
                     "menuNummer": 11,
-                    "gerechtNaam": "Saté Babi varkensvlees, 4 stokjes",
+                    "gerechtNaam": "Saté Babi (varkensvlees, 4 stokjes)",
                     "prijs": 5.5
                 },
                 "5":{
@@ -81,12 +81,12 @@
                 },
                 "7": {
                     "menuNummer": 14,
-                    "gerechtNaam": "Atlar, witte rljst, frltes",
+                    "gerechtNaam": "Atjar, witte rijst, frites",
                     "prijs": 3.5
                 },
                 "8": {
                     "menuNummer": 15,
-                    "gerechtNaam": "Plsang Goreng",
+                    "gerechtNaam": "Pisang Goreng",
                     "prijs": 3.8
                 },
                 "9": {
@@ -96,7 +96,7 @@
                 },
                 "10": {
                     "menuNummer": 17,
-                    "gerechtNaam": "Pikante saUS, satésaus",
+                    "gerechtNaam": "Pikante saus, satésaus",
                     "prijs": 3.5
                 },
                 "11": {
@@ -111,7 +111,7 @@
             "Nasi Goreng Gerechten": {
                 "0": {
                     "menuNummer": 19,
-                    "gerechtNaam": "Nasl Goreng Gewoon ( met ham en ei)",
+                    "gerechtNaam": "Nasi Goreng Gewoon (met ham en ei)",
                     "prijs": 5.8
                 },
                 "1": {
@@ -126,7 +126,7 @@
                 },
                 "3": {
                     "menuNummer": 22,
-                    "gerechtNaam": "Nasl Gorena met gesneden Rip",
+                    "gerechtNaam": "Nasi Goreng met gesneden kip",
                     "prijs": 9.6
                 },
                 "4": {
@@ -136,22 +136,22 @@
                 },
                 "5": {
                     "menuNummer": 24,
-                    "gerechtNaam": "Nasi Goreng met vlees en  champignons",
+                    "gerechtNaam": "Nasi Goreng met vlees en champignons",
                     "prijs": 9.6
                 },
                 "6": {
                     "menuNummer": 25,
-                    "gerechtNaam": "Nasi Goreng  met grote Chinese garnalen",
+                    "gerechtNaam": "Nasi Goreng met grote Chinese garnalen",
                     "prijs": 14
                 },
                 "7": {
                     "menuNummer": 26,
-                    "gerechtNaam": "Nasi Goreng Kam Po' (Koe Loy Yuk, Babi Pangang, kip, Foe Yong Hai 2 stokjes saté )",
+                    "gerechtNaam": "Nasi Goreng \"Kam Po\" (Koe Loy Yuk, Babi Pangang, kip, Foe Yong Hai 2 stokjes saté)",
                     "prijs": 15.2
                 },
                 "8": {
                     "menuNummer": 27,
-                    "gerechtNaam": "Yeung Tjaw fsaw Fan",
+                    "gerechtNaam": "Yeung Tjaw Tsaw Fan",
                     "prijs": 11
                 }
             }
@@ -170,12 +170,12 @@
                 },
                 "2": {
                     "menuNummer": 29,
-                    "gerechtNaam": "BamiGoreng met Saté (4 stokjes)",
+                    "gerechtNaam": "Bami Goreng met Saté (4 stokjes)",
                     "prijs": 10
                 },
                 "3": {
                     "menuNummer": 30,
-                    "gerechtNaam": "Bami Gorena met Gesneden KIP",
+                    "gerechtNaam": "Bami Goreng met Gesneden Kip",
                     "prijs": 9.6
                 },
                 "4": {
@@ -190,12 +190,12 @@
                 },
                 "6": {
                     "menuNummer": 33,
-                    "gerechtNaam": "Bami Goreng  met grote Chinese garnalen",
+                    "gerechtNaam": "Bami Goreng met grote Chinese garnalen",
                     "prijs": 14
                 },
                 "7": {
                     "menuNummer": 34,
-                    "gerechtNaam": "Bami Goreng Kam Po\" (koe loy yuk, Babi Pangang, kip, Foe yong hal, 2 stokjes saté )",
+                    "gerechtNaam": "Bami Goreng \"Kam Po\" (koe loy yuk, Babi Pangang, kip, Foe yong hai, 2 stokjes saté)",
                     "prijs": 15.2
                 }
             }
@@ -224,12 +224,12 @@
                 },
                 "4": {
                     "menuNummer": 39,
-                    "gerechtNaam": "Mihoen Singapore (met gamalen, cha sieuw, kerrie)",
+                    "gerechtNaam": "Mihoen Singapore (met garnalen, cha sieuw, kerrie)",
                     "prijs": 13.2
                 },
                 "5": {
                     "menuNummer": 40,
-                    "gerechtNaam": "Mihoen GorenQ Kam Po\" (koe loy yuk, Bab/ Pangang, kip, Foe yong hal, 2 stokjes saté )",
+                    "gerechtNaam": "Mihoen Goreng \"Kam Po\" (koe loe yuk, babi pangang, kip, foe yong hai, 2 stokjes saté)",
                     "prijs": 17
                 }
             }
@@ -258,7 +258,7 @@
                 },
                 "4": {
                     "menuNummer": 45,
-                    "gerechtNaam": "Tjap tjoy met Chinese Garnalen",
+                    "gerechtNaam": "Tjap Tjoy met Chinese Garnalen",
                     "prijs": 14.7
                 },
                 "5": {
@@ -277,7 +277,7 @@
                 },
                 "1": {
                     "menuNummer": 48,
-                    "gerechtNaam": "Foe Yong Hal met KIP",
+                    "gerechtNaam": "Foe Yong Hai met Kip",
                     "prijs": 9.8
                 },
                 "2": {
@@ -287,7 +287,7 @@
                 },
                 "3": {
                     "menuNummer": 50,
-                    "gerechtNaam": "Foe Yong Hal met Krab",
+                    "gerechtNaam": "Foe Yong Hai met Krab",
                     "prijs": 14.3
                 }
             }
@@ -301,7 +301,7 @@
                 },
                 "1": {
                     "menuNummer": 52,
-                    "gerechtNaam": "Babi Pangang Speken Saus",
+                    "gerechtNaam": "Babi Pangang Spek en saus",
                     "prijs": 13
                 },
                 "2": {
@@ -316,7 +316,7 @@
                 },
                 "4": {
                     "menuNummer": 55,
-                    "gerechtNaam": "Koe Loy Yuk",
+                    "gerechtNaam": "Koe Loe Yuk",
                     "prijs": 11.2
                 },
                 "5": {
@@ -346,12 +346,12 @@
                 },
                 "10": {
                     "menuNummer": 61,
-                    "gerechtNaam": "Varkenshaas  met Chinese champignons",
+                    "gerechtNaam": "Varkenshaas met Chinese champignons",
                     "prijs": 11.7
                 },
                 "11": {
                     "menuNummer": 62,
-                    "gerechtNaam": "Varkenshaas met Tausl saus (zwarte bonensaus)",
+                    "gerechtNaam": "Varkenshaas met Tausi saus (zwarte bonensaus)",
                     "prijs": 11.7
                 }
             }
@@ -385,7 +385,7 @@
                 },
                 "5": {
                     "menuNummer": 68,
-                    "gerechtNaam": "Gesneden kip in Tausl saus (zwarte bonensaus)",
+                    "gerechtNaam": "Gesneden kip in Tausi saus (zwarte bonensaus)",
                     "prijs": 11.7
                 },
                 "6": {
@@ -395,61 +395,61 @@
                 },
                 "7": {
                     "menuNummer": 70,
-                    "gerechtNaam": "Koe Loe Kal",
+                    "gerechtNaam": "Koe Loe Kai",
                     "prijs": 11.2
                 }
             }
         },
         "catagorie_09": {
-            "Ossehaas gerechten": {
+            "Ossenhaas gerechten": {
                 "0": {
                     "menuNummer": 71,
-                    "gerechtNaam": "Gesneden ossehaas in tomatensaus",
+                    "gerechtNaam": "Gesneden ossenhaas in tomatensaus",
                     "prijs": 14.5
                 },
                 "1": {
                     "menuNummer": 72,
-                    "gerechtNaam": "Gesneden ossehaas met champignons",
+                    "gerechtNaam": "Gesneden ossenhaas met champignons",
                     "prijs": 14.5
                 },
                 "2": {
                     "menuNummer": 73,
-                    "gerechtNaam": "Gesneoen ossehaas met asperges",
+                    "gerechtNaam": "Gesneoen ossenhaas met asperges",
                     "prijs": 14.5
                 },
                 "3": {
                     "menuNummer": 74,
-                    "gerechtNaam": "Gesneden ossehaas met broccoli",
+                    "gerechtNaam": "Gesneden ossenhaas met broccoli",
                     "prijs": 14.5
                 },
                 "4": {
                     "menuNummer": 75,
-                    "gerechtNaam": "Gesneden ossehaas met ananas",
+                    "gerechtNaam": "Gesneden ossenhaas met ananas",
                     "prijs": 14.5
                 },
                 "5": {
                     "menuNummer": 76,
-                    "gerechtNaam": "Gesneden ossehaas met tausl saus en paprika",
+                    "gerechtNaam": "Gesneden ossenhaas met tausi saus en paprika",
                     "prijs": 14.5
                 },
                 "6": {
                     "menuNummer": 77,
-                    "gerechtNaam": "Gesneden ossehaas In oestersaus",
+                    "gerechtNaam": "Gesneden ossenhaas In oestersaus",
                     "prijs": 14.5
                 },
                 "7": {
                     "menuNummer": 78,
-                    "gerechtNaam": "Gesneden ossehaas met Chinese champignons",
+                    "gerechtNaam": "Gesneden ossenhaas met Chinese champignons",
                     "prijs": 14.8
                 },
                 "8": {
                     "menuNummer": 79,
-                    "gerechtNaam": "Gesneden ossehaas met pikante saus",
+                    "gerechtNaam": "Gesneden ossenhaas met pikante saus",
                     "prijs": 14.5
                 },
                 "10": {
                     "menuNummer": 80,
-                    "gerechtNaam": "Gesneden ossehaas met kerriesaus",
+                    "gerechtNaam": "Gesneden ossenhaas met kerriesaus",
                     "prijs": 14.5
                 }
             }
@@ -499,7 +499,7 @@
             }
         },
         "catagorie_11": {
-            "Chinese Bami gerechten ( fijne bami)": {
+            "Chinese Bami gerechten (fijne bami)": {
                 "0": {
                     "menuNummer": 89,
                     "gerechtNaam": "Chinese bami met vlees",
@@ -527,12 +527,12 @@
                 },
                 "5": {
                     "menuNummer": 94,
-                    "gerechtNaam": "Yeung Chow Mein ( met garnalen en cha sleuw)",
+                    "gerechtNaam": "Yeung Chow Mein (met garnalen en cha sleuw)",
                     "prijs": 14
                 },
                 "6": {
                     "menuNummer": 95,
-                    "gerechtNaam": "Chinese bami \"Kam Po\" (koe loy yuk, Babi Pangang, kip, Foe yong hai, 2 stokjes saté)",
+                    "gerechtNaam": "Chinese bami \"Kam Po\" (koe loy yuk, babi pangang, kip, foe yong hai, 2 stokjes saté)",
                     "prijs": 17.5
                 }
             }
@@ -541,22 +541,22 @@
             "Vegetarische gerechten": {
                 "0": {
                     "menuNummer": 96,
-                    "gerechtNaam": "Vegetarisch Mihoen Goreng",
+                    "gerechtNaam": "Vegetarische Mihoen Goreng",
                     "prijs": 9.3
                 },
                 "1": {
                     "menuNummer": 97,
-                    "gerechtNaam": "Veaetarlsch Chow Mein (Chinese bami)",
+                    "gerechtNaam": "Vegetarische Chow Mein (Chinese bami)",
                     "prijs": 9.8
                 },
                 "2": {
                     "menuNummer": 98,
-                    "gerechtNaam": "Vegetarisch Foe Yong Hai met witte rijst",
+                    "gerechtNaam": "Vegetarische Foe Yong Hai met witte rijst",
                     "prijs": 9
                 },
                 "3": {
                     "menuNummer": 99,
-                    "gerechtNaam": "Vegetarisch Tjap Tjoy met witte rijst",
+                    "gerechtNaam": "Vegetarische Tjap Tjoy met witte rijst",
                     "prijs": 9.7
                 },
                 "4": {
@@ -590,12 +590,12 @@
                 },
                 "4": {
                     "menuNummer": 105,
-                    "gerechtNaam": "Alam Pangang met rijst",
+                    "gerechtNaam": "Ajam Pangang met rijst",
                     "prijs": 10
                 },
                 "5": {
                     "menuNummer": 106,
-                    "gerechtNaam": "Alam ketjap met rilst",
+                    "gerechtNaam": "Ajam ketjap met rijst",
                     "prijs": 10
                 },
                 "6": {
@@ -609,92 +609,92 @@
             "Combinatie gerechten": {
                 "0": {
                     "menuNummer": 108,
-                    "gerechtNaam": "Nasl Foe Yuk (Babi Panaang, Foe yong hai, 2 St saté )",
+                    "gerechtNaam": "Nasi Foe Yuk (babi pangang, foe yong hai, 2 St saté)",
                     "prijs": 13.4
                 },
                 "1": {
                     "menuNummer": 109,
-                    "gerechtNaam": "Nasi The Yuk (Babi Panaang,2 St saté )",
+                    "gerechtNaam": "Nasi The Yuk (babi pangang,2 St saté)",
                     "prijs": 12.6
                 },
                 "2": {
                     "menuNummer": 110,
-                    "gerechtNaam": "Nasi Tiap Yuk (Babi Panaang, Tjap Tjoy, 2 St saté )",
+                    "gerechtNaam": "Nasi Tjap Yuk (babi pangang, tjap tjoy, 2 St saté)",
                     "prijs": 13.4
                 },
                 "3": {
                     "menuNummer": 111,
-                    "gerechtNaam": "Nasi Kai Yuk (Babi Panaang, kip, 2 St saté )",
+                    "gerechtNaam": "Nasi Kai Yuk (babi pangang, kip, 2 St saté)",
                     "prijs": 13.4
                 },
                 "4": {
                     "menuNummer": 112,
-                    "gerechtNaam": "Nasi Koe Yuk (Babi Panaang, Koe loy yuk, 2 St saté )",
+                    "gerechtNaam": "Nasi Koe Yuk (babi pangang, koe loy yuk, 2 St saté)",
                     "prijs": 13.4
                 },
                 "5": {
                     "menuNummer": 113,
-                    "gerechtNaam": "Nasi Ha Yuk (Babi Pangang, Gepaneerde garnalen, 2 St saté )",
+                    "gerechtNaam": "Nasi Ha Yuk (babi pangang, gepaneerde garnalen, 2 St saté)",
                     "prijs": 14.2
                 },
                 "6": {
                     "menuNummer": 114,
-                    "gerechtNaam": "Bami Foe Yuk (Babi Panaang, Foe yong hai, 2 St saté )",
+                    "gerechtNaam": "Bami Foe Yuk (babi pangang, foe yong hai, 2 St saté)",
                     "prijs": 13.4
                 },
                 "7": {
                     "menuNummer": 115,
-                    "gerechtNaam": "Bami TheYuk (Babi Pangana, 2 St saté )",
+                    "gerechtNaam": "Bami The Yuk (babi Pangang, 2 St saté)",
                     "prijs": 12.6
                 },
                 "8": {
                     "menuNummer": 116,
-                    "gerechtNaam": "Bami Tlap Yuk (Babi Panaang, Tjap Tjoy, 2 St saté )",
+                    "gerechtNaam": "Bami Tjap Yuk (babi pangang, tjap tjoy, 2 St saté)",
                     "prijs": 13.4
                 },
                 "9": {
                     "menuNummer": 117,
-                    "gerechtNaam": "Bami Kai Puk (Babi Pangang, kip, 2 St saté )",
+                    "gerechtNaam": "Bami Kai Puk (babi pangang, kip, 2 St saté)",
                     "prijs": 13.4
                 },
                 "10": {
                     "menuNummer": 118,
-                    "gerechtNaam": "Bami Koe Yuk (Babi Panaang, Koe loy yuk, 2 St saté )",
+                    "gerechtNaam": "Bami Koe Yuk (babi pangang, Koe loy yuk, 2 St saté)",
                     "prijs": 13.4
                 },
                 "11": {
                     "menuNummer": 119,
-                    "gerechtNaam": "Bami Ha Yuk (Babi Pangang, Gepaneerde garnalen, 2 St saté )",
+                    "gerechtNaam": "Bami Ha Yuk (babi pangang, gepaneerde garnalen, 2 St saté)",
                     "prijs": 14.2
                 },
                 "12": {
                     "menuNummer": 120,
-                    "gerechtNaam": "Mihoen Foe Yuk (Babi Pangana, Foe yong hal, 2 St saté )",
+                    "gerechtNaam": "Mihoen Foe Yuk (babi pangang, foe yong hai, 2 St saté)",
                     "prijs": 15.2
                 },
                 "13": {
                     "menuNummer": 121,
-                    "gerechtNaam": "Mihoen The Yuk (Babi Pangana, 2 St saté )",
+                    "gerechtNaam": "Mihoen The Yuk (babi pangang, 2 St saté)",
                     "prijs": 14.3
                 },
                 "14": {
                     "menuNummer": 122,
-                    "gerechtNaam": "Mihoen Tjap Yuk (Babi Pangang, Tjap Tjoy, 2 St saté )",
+                    "gerechtNaam": "Mihoen Tjap Yuk (babi Pangang, tjap tjoy, 2 St saté)",
                     "prijs": 15.2
                 },
                 "15": {
                     "menuNummer": 123,
-                    "gerechtNaam": "Mihoen Kai Yuk (Babi Pangana, kip, 2 St saté )",
+                    "gerechtNaam": "Mihoen Kai Yuk (babi pangang, kip, 2 St saté)",
                     "prijs": 15.2
                 },
                 "16": {
                     "menuNummer": 124,
-                    "gerechtNaam": "Mihoen Koe Yuk (Babi Pangang, Koe loy yuk, 2 St saté )",
+                    "gerechtNaam": "Mihoen Koe Yuk (babi pangang, koe loy yuk, 2 St saté)",
                     "prijs": 15.2
                 },
                 "17": {
                     "menuNummer": 125,
-                    "gerechtNaam": "Mihoen Ha Yuk (Babi Pangang, Gepaneerde garnalen, 2 Saté )",
+                    "gerechtNaam": "Mihoen Ha Yuk (babi Pangang, gepaneerde garnalen, 2 Saté)",
                     "prijs": 16.3
                 }
             }
@@ -703,7 +703,7 @@
             "Specialiteiten gerechten": {
                 "0": {
                     "menuNummer": 126,
-                    "gerechtNaam": "NqauYew Ha (Garnalen met champignons in botersaus)",
+                    "gerechtNaam": "Ngau Yew Ha (Garnalen met champignons in botersaus)",
                     "prijs": 17.6
                 },
                 "1": {
@@ -723,7 +723,7 @@
                 },
                 "4": {
                     "menuNummer": 130,
-                    "gerechtNaam": "Chill Ha (aarnalen en krab met chili saus)",
+                    "gerechtNaam": "Chili Ha (garnalen en krab met chili saus)",
                     "prijs": 17.6
                 },
                 "5": {
@@ -743,17 +743,17 @@
                 },
                 "8": {
                     "menuNummer": 134,
-                    "gerechtNaam": "Sang Kwak (visschotel met tongfilet, kreeft garnalen en champignons)",
+                    "gerechtNaam": "Sang Kwak (visschotel met tongfilet, kreeft, garnalen en champignons)",
                     "prijs": 23
                 },
                 "9": {
                     "menuNummer": 135,
-                    "gerechtNaam": "American Chow (nasi gorena met krab en garnalen)",
+                    "gerechtNaam": "American Chow Fang (nasi goreng met krab en garnalen)",
                     "prijs": 14.3
                 },
                 "10": {
                     "menuNummer": 136,
-                    "gerechtNaam": "Amencan Chow Afeli (bami oorena met krak) eo garnalen)",
+                    "gerechtNaam": "American Chow Mie (bami goreng met krab) eo garnalen)",
                     "prijs": 14.3
                 },
                 "11": {
@@ -773,7 +773,7 @@
                 },
                 "14": {
                     "menuNummer": 140,
-                    "gerechtNaam": "Chow Tina Kai ( kikkerbMeties met groente)",
+                    "gerechtNaam": "Chow Ting Kai (kikkerbMeties met groente)",
                     "prijs": 13.5
                 },
                 "15": {
@@ -783,12 +783,12 @@
                 },
                 "16": {
                     "menuNummer": 142,
-                    "gerechtNaam": "Kip \" Kam Po\" ( kipfilet met knoflook)",
+                    "gerechtNaam": "Kip \"Kam Po\" (kipfilet met knoflook)",
                     "prijs": 13.5
                 },
                 "17": {
                     "menuNummer": 143,
-                    "gerechtNaam": "Gon Boa Kai Tlng (kip met bamboe en paprika)",
+                    "gerechtNaam": "Gon Boa Kai Ting (kip met bamboe en paprika)",
                     "prijs": 13.5
                 },
                 "18": {
@@ -798,17 +798,17 @@
                 },
                 "19": {
                     "menuNummer": 145,
-                    "gerechtNaam": "Hawai'aanse kipschotel",
+                    "gerechtNaam": "Hawaiaanse kipschotel",
                     "prijs": 12
                 },
                 "20": {
                     "menuNummer": 146,
-                    "gerechtNaam": "Tja Lak Kai  gepaneerde kipfilet In knoflook chilisaus )",
+                    "gerechtNaam": "Tja Lak Kai (gepaneerde kipfilet In knoflook chilisaus)",
                     "prijs": 13.8
                 },
                 "21": {
                     "menuNummer": 147,
-                    "gerechtNaam": "Cha Sleuw (Chinese Babi Panaang met aparte saus",
+                    "gerechtNaam": "Cha Sieuw (Chinese Babi pangang met aparte saus)",
                     "prijs": 14.5
                 },
                 "22": {
@@ -833,7 +833,7 @@
                 },
                 "26": {
                     "menuNummer": 152,
-                    "gerechtNaam": "Lak Chew Ap (gegrilde eend in knoflook chilisaus )",
+                    "gerechtNaam": "Lak Chew Ap (gegrilde eend in knoflook chilisaus)",
                     "prijs": 15.5
                 },
                 "27": {
@@ -861,12 +861,12 @@
             "Indische rijsttafel": {
                 "0": {
                     "menuNummer": 156,
-                    "gerechtNaam": "Voor 1 persoon Babi Pangang, gebakken garnalen, Foe Yong Hai, Tjap Tjoy, Koe Loe Yuk, Saté, Kroepoek en rijst",
+                    "gerechtNaam": "Voor 1 persoon Babi Pangang, Ajam Pangang, Gado Gado, Sajor, Daging smoor, Serundeng, Daging Bali, Pisang Goreng, Ananas, atjar, Saté, Foe Yong Hai, Kroepoek en rijst",
                     "prijs": 15.4
                 },
                 "1": {
                     "menuNummer": 157,
-                    "gerechtNaam": "Voor 2 personen Babi Pangang, Ajam Pangang, gado gado, Sajor, Daging smoor, Serundeng, Daging Bali, Pisang Goreng, ananas, atjar, Saté, Foe Yong Hai, Kroepoek en rijst",
+                    "gerechtNaam": "Voor 2 personen Babi Pangang, Ajam Pangang, Gado Gado, Sajor, Daging smoor, Serundeng, Daging Bali, Pisang Goreng, Ananas, atjar, Saté, Foe Yong Hai, Kroepoek en rijst",
                     "prijs": 30.8
                 }
             }

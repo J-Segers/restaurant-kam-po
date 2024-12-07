@@ -10,7 +10,7 @@ function BurgerMenu() {
             <div id="drop-down" className={isOpen ? "open" : "closed"} onClick={() => setIsOpen(!isOpen)}>
                 <BurgerMenuItem title="🏠" url="/" />
                 <BurgerMenuItem title={"🍜"} url={"/menu"} />
-                <BurgerMenuItem title={"📞"} url={'/contact'} />
+                <BurgerMenuItem title={"📞"} url={'tel:0475-483769'} />
             </div>
         </div>
      );

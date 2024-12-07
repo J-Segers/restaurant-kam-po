@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import hero from '../../assets/restaurant_kampo_rijksweg.png';
+import hero from '../../assets/20240825_172650.png';
 import "./Home.css";
 import { NavLink } from 'react-router-dom';
 import WeekMenu from '../../componenten/weekMenu/WeekMenu';
@@ -13,7 +13,9 @@ function Home() {
 
     return ( 
         <div id="home">
-            <img id={"hero-img"} src={hero} alt="" />
+            <div id="hero-container">
+                <img id={"hero-img"} src={hero} alt="" />
+            </div>
             <h1>Kam Po</h1>
             <h3>Chinees - Indisch Restaurant</h3>
 

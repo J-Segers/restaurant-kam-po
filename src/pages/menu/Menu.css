@@ -16,8 +16,10 @@
     margin: 16px;
 }
 
-.menu-categorie:first-of-type {
-    border-top: 1px solid black;
+hr {
+    width: 90%;
+    max-width: 800px;
+    border-color: black;
 }
 
 .menu-categorie:last-of-type {
