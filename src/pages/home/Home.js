@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useContext, useEffect } from 'react';
 import hero from '../../assets/20240825_172650.png';
 import "./Home.css";
 import { NavLink } from 'react-router-dom';
@@ -7,6 +7,12 @@ import WeekMenu from '../../componenten/weekMenu/WeekMenu';
 
 function Home() {
 
+    let weekMenu = ["babi pangang", "foe yong hai", "saté", "mini loempia's"];
+    let menuA = ["Babi Pangang", "Tjap Tjoy", "Kipfilet met Ananas", "Gebakken banaan", "Babi Ketjap", "Saté", "Kroepoek"];
+    let menuB = ["Babi Pangang", "Foe Yong Hai", "Kipfilet met Ananas", "Mini loempia's", "Babi Ketjap", "Saté", "Kroepoek" ];
+    let menuC = ["Babi Pangang", "Foe Yong Hai of Tjap Tjoy", "Saté", "mini loempia's"];
+    
+    
     useEffect(() => {
         window.scrollTo(0,0);
     }, [])
@@ -17,13 +23,13 @@ function Home() {
                 <img id={"hero-img"} src={hero} alt="" />
             </div>
             <h1>Kam Po</h1>
-            <h3>Chinees - Indisch Restaurant</h3>
-
-            <p id='info'>
-                Toen wij tijdens de lock down de deuren hebben moeten sluiten van het restaurant hebben wij besloten om voortaan enkel nog te fungeren als afhaalpunt.
-            </p>
-
-            <WeekMenu />
+            <h3>Chinees - Indisch afhaal Restaurant</h3>
+                <WeekMenu id="weekMenu" menuNaam="van de Week" menu={weekMenu} />    
+                <div id="week-menus-container">
+                    <WeekMenu menuNaam="A" menu={menuA} />
+                    <WeekMenu menuNaam="B" menu={menuB} />
+                    <WeekMenu menuNaam="C" menu={menuC} />
+                </div>
             <p>
                 liever trek in iets anders?<br />
                 bekijk hier ons volledige menu.

@@ -1,12 +1,11 @@
 import React from 'react';
 import "./WeekMenu.css";
 
-function WeekMenu() {
-    let weekMenu = ["babi pangang", "foe yong hai", "saté", "mini loempia's"];
+function WeekMenu({menuNaam,menu}) {
     return ( 
-        <div id="week-menu">
-            <h2>Week Menu</h2>
-            {weekMenu.map((item) => {
+        <div class="week-menu">
+            <h2>Menu {menuNaam}</h2>
+            {menu.map((item) => {
                 return (
                     <>
                         <h3>{item}</h3>
