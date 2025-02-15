@@ -7,10 +7,10 @@ import WeekMenu from '../../componenten/weekMenu/WeekMenu';
 
 function Home() {
 
-    let weekMenu = ["babi pangang", "foe yong hai", "saté", "mini loempia's"];
+    let weekMenu = ["babi pangang", "foe yong hai", "Tjap Tjoy"];
     let menuA = ["Babi Pangang", "Tjap Tjoy", "Kipfilet met Ananas", "Gebakken banaan", "Babi Ketjap", "Saté", "Kroepoek"];
-    let menuB = ["Babi Pangang", "Foe Yong Hai", "Kipfilet met Ananas", "Mini loempia's", "Babi Ketjap", "Saté", "Kroepoek" ];
-    let menuC = ["Babi Pangang", "Foe Yong Hai of Tjap Tjoy", "Saté", "mini loempia's"];
+    let menuB = ["Babi Pangang", "Foe Yong Hai", "Kantonese Koe Loe Yuk", "Mini loempia's", "Babi Ketjap", "Saté", "Kroepoek" ];
+    let menuC = ["Babi Pangang", "Foe Yong Hai of Tjap Tjoy", "Saté", "kroepoek"];
     
     
     useEffect(() => {
@@ -24,11 +24,11 @@ function Home() {
             </div>
             <h1>Kam Po</h1>
             <h3>Chinees - Indisch afhaal Restaurant</h3>
-                <WeekMenu id="weekMenu" menuNaam="van de Week" menu={weekMenu} />    
+                <WeekMenu id="weekMenu" menuNaam="van de Week" menu={weekMenu} aantal="2" prijs="17,60" />    
                 <div id="week-menus-container">
-                    <WeekMenu menuNaam="A" menu={menuA} />
-                    <WeekMenu menuNaam="B" menu={menuB} />
-                    <WeekMenu menuNaam="C" menu={menuC} />
+                    <WeekMenu menuNaam="A" menu={menuA} aantal="2" prijs="18,00"/>
+                    <WeekMenu menuNaam="B" menu={menuB} aantal="2" prijs="18,00"/>
+                    <WeekMenu menuNaam="C" menu={menuC} aantal="1" prijs="9,30"/>
                 </div>
             <p>
                 liever trek in iets anders?<br />

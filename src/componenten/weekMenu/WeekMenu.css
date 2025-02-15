@@ -10,12 +10,24 @@
 .week-menu h2 {
     margin-top: 50px;
     text-decoration: underline;
-
 }
 
-.week-menu h3:last-child {
+.red {
+    color: darkred;
+}
+
+.week-menu h3 {
+    margin: 5px auto;
+}
+
+h3.prijs {
+    margin-bottom: 25px;
+}
+
+.week-menu-item:last-child {
     margin-bottom: 50px;
 }
+
 
 @media screen and (min-width: 768px) {
     .week-menu {
