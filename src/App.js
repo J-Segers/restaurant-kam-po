@@ -11,7 +11,7 @@ import { getDatabase, ref, onValue } from "firebase/database";
 
 function App() {
   
-  const [data, setData] = useState([]);
+  const [dataDB, setDataDB] = useState([]);
 
   useEffect(() => {
   
@@ -23,7 +23,7 @@ function App() {
         const dataItem = snapshot.val();
         if(dataItem) {
           const displayItem = Object.values(dataItem);
-          setData(displayItem);
+          setDataDB(displayItem[0]);
         }
       });
     }
@@ -31,16 +31,16 @@ function App() {
     fetchData();
     
   },[])
-  console.log(data);
+  console.log(dataDB);
   
   return (
     <div className="App">
       <CustomHeader />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/menu" element={<Menu data={data} />} />
+        <Route path="/" element={<Home info={dataDB.info} menus={dataDB.setMenus} />} />
+        <Route path="/menu" element={<Menu data={dataDB.fullMenu} />} />
       </Routes>
-      <Footer />
+      <Footer info={dataDB.info} />
     </div>
   );
 }

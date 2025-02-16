@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import "./Menu.css";
-import { Link } from 'react-router-dom';
 
 function Menu({data}) {
 
@@ -14,8 +13,8 @@ function Menu({data}) {
         currency: 'EUR'
     })
     
-    Object.keys(data.menu).forEach(key => {
-        menuCatArr.push(data.menu[key])
+    Object.keys(data).forEach(key => {
+        menuCatArr.push(data[key])
     });
     
     return ( 
@@ -26,7 +25,6 @@ function Menu({data}) {
                 menuCatArr.map((cat) => {                    
                     var menuItems = new Array();
                     Object.entries(cat).forEach((items) => {
-                        console.log(cat);
                         
                         Object.values(items[1]).forEach((item) => {
                             menuItems.push(item)
