@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/restaurant-kam-po/static/css/main.9e3e4225.css",
-    "main.js": "/restaurant-kam-po/static/js/main.4549dc81.js",
+    "main.js": "/restaurant-kam-po/static/js/main.73ef59a4.js",
     "static/js/453.03df4a30.chunk.js": "/restaurant-kam-po/static/js/453.03df4a30.chunk.js",
     "static/media/20240825_172650.png": "/restaurant-kam-po/static/media/20240825_172650.c77366cb4061bfa8ba89.png",
     "static/media/LogoImg.png": "/restaurant-kam-po/static/media/LogoImg.b6469061d0449b5dcd02.png",
     "index.html": "/restaurant-kam-po/index.html",
     "main.9e3e4225.css.map": "/restaurant-kam-po/static/css/main.9e3e4225.css.map",
-    "main.4549dc81.js.map": "/restaurant-kam-po/static/js/main.4549dc81.js.map",
+    "main.73ef59a4.js.map": "/restaurant-kam-po/static/js/main.73ef59a4.js.map",
     "453.03df4a30.chunk.js.map": "/restaurant-kam-po/static/js/453.03df4a30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e3e4225.css",
-    "static/js/main.4549dc81.js"
+    "static/js/main.73ef59a4.js"
   ]
 }
